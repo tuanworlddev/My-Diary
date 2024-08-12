@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "14735237624",
+    "project_id": "my-diary-2e199",
+    "storage_bucket": "my-diary-2e199.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14735237624:android:b7048891171d03f0f6f60d",
+        "android_client_info": {
+          "package_name": "com.tuandev.mydiary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-JRabYf3cQQ1osKLR_D7Zn2Z4d5jRasA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
